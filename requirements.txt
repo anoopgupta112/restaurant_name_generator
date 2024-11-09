@@ -1,0 +1,9 @@
+streamlit
+langchain
+openai
+fastapi
+uvicorn
+langchain-community
+langchain-core
+flask
+google-generativeai
