@@ -1,2 +1,6 @@
 .env
 .venv
+.idea/
+app/__pycache__/__init__.cpython-39.pyc
+app/__pycache__/config.cpython-39.pyc
+app/__pycache__/langchain_helper.cpython-39.pyc
